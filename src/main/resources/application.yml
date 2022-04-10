@@ -1,0 +1,6 @@
+spring:
+  data:
+    mongodb:
+      database: boardGame
+      uri: mongodb://localhost:27017/boards?maxpoolsize=5
+
